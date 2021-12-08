@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patrick3969
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css, html, javascript end php
+- 🌱 I’m currently learning css, html, javascript & php
 - 📫 How to reach me (tobiasz3969@icloud.com)
 
 <!---
